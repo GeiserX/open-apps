@@ -1,7 +1,52 @@
 {
-  "generatedAt": "2026-10-04T10:25:54.342Z",
+  "generatedAt": "2026-10-11T10:37:46.794Z",
   "repository": "tortuvshin/open-apps",
   "pulls": [
+    {
+      "number": 373,
+      "title": "Add Open Reports",
+      "url": "https://github.com/tortuvshin/open-apps/pull/373",
+      "author": "varaprasadreddy9676",
+      "authorUrl": "https://github.com/varaprasadreddy9676",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/30567269?v=4",
+      "mergedAt": "2026-10-11T03:12:29Z"
+    },
+    {
+      "number": 370,
+      "title": "Add Plainsay",
+      "url": "https://github.com/tortuvshin/open-apps/pull/370",
+      "author": "conrader",
+      "authorUrl": "https://github.com/conrader",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8105013?v=4",
+      "mergedAt": "2026-10-10T15:17:05Z"
+    },
+    {
+      "number": 369,
+      "title": "Add Tale project workspace",
+      "url": "https://github.com/tortuvshin/open-apps/pull/369",
+      "author": "yannickmonney",
+      "authorUrl": "https://github.com/yannickmonney",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/102406702?v=4",
+      "mergedAt": "2026-10-10T03:18:26Z"
+    },
+    {
+      "number": 365,
+      "title": "Update OpenPost to its canonical documentation URL",
+      "url": "https://github.com/tortuvshin/open-apps/pull/365",
+      "author": "rodrgds",
+      "authorUrl": "https://github.com/rodrgds",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/77681625?v=4",
+      "mergedAt": "2026-10-07T02:22:28Z"
+    },
+    {
+      "number": 364,
+      "title": "Add Orkas desktop AI workforce",
+      "url": "https://github.com/tortuvshin/open-apps/pull/364",
+      "author": "BlueSkyID666",
+      "authorUrl": "https://github.com/BlueSkyID666",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/280636370?v=4",
+      "mergedAt": "2026-10-07T02:21:34Z"
+    },
     {
       "number": 360,
       "title": "Add IOTA Watch — open-source training and mining monitor",
@@ -28,51 +73,6 @@
       "authorUrl": "https://github.com/daoyi2026",
       "avatarUrl": "https://avatars.githubusercontent.com/u/270243353?v=4",
       "mergedAt": "2026-10-03T08:34:40Z"
-    },
-    {
-      "number": 355,
-      "title": "Add Lotti",
-      "url": "https://github.com/tortuvshin/open-apps/pull/355",
-      "author": "cyberk1ng",
-      "authorUrl": "https://github.com/cyberk1ng",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/150244095?v=4",
-      "mergedAt": "2026-10-01T01:03:58Z"
-    },
-    {
-      "number": 354,
-      "title": "Add InvoiceFlowAI to Business apps",
-      "url": "https://github.com/tortuvshin/open-apps/pull/354",
-      "author": "EthanYoQ",
-      "authorUrl": "https://github.com/EthanYoQ",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/257484394?v=4",
-      "mergedAt": "2026-09-30T16:12:51Z"
-    },
-    {
-      "number": 351,
-      "title": "Add Oh My Android to Developer Tools",
-      "url": "https://github.com/tortuvshin/open-apps/pull/351",
-      "author": "ateymoori",
-      "authorUrl": "https://github.com/ateymoori",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/34753150?v=4",
-      "mergedAt": "2026-09-29T11:57:43Z"
-    },
-    {
-      "number": 346,
-      "title": "Add aiFetchly to Business",
-      "url": "https://github.com/tortuvshin/open-apps/pull/346",
-      "author": "anthourholder-dot",
-      "authorUrl": "https://github.com/anthourholder-dot",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/333362117?v=4",
-      "mergedAt": "2026-09-28T13:57:25Z"
-    },
-    {
-      "number": 343,
-      "title": "Add Orvaket accounts receivable app",
-      "url": "https://github.com/tortuvshin/open-apps/pull/343",
-      "author": "Akam1123",
-      "authorUrl": "https://github.com/Akam1123",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/325395572?v=4",
-      "mergedAt": "2026-09-26T17:37:01Z"
     }
   ]
 }
